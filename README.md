@@ -1,4 +1,4 @@
 # Phaser
 Phaser入门
 
-http://study.lidope.top/Phaser
+http://study.lidope.top/Phaser 
